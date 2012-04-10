@@ -1,5 +1,6 @@
 !SLIDE fullscreen middle
-#and the application has to do things. lots of things
+![](3578-all-the-things.jpg)
+#and the application has to do things
 
 !SLIDE
 #queue phonecalls with
