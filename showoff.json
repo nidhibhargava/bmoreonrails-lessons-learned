@@ -2,9 +2,9 @@
 	"name": "Lessons Learned @ bmore on rails",
 	"sections": [
 		{"section":"1-intro"},
-		{"section":"2-environment"},
+		{"section":"2-env"},
 		{"section":"3-interweb"},
 		{"section":"4-outerweb"},
-		{"section":"5-done"}
+		{"section":"5-outro"}
 	]
 }
