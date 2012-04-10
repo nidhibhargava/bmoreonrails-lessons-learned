@@ -1,0 +1,192 @@
+@import url(http://fonts.googleapis.com/css?family=Advent+Pro:400,600);
+
+a,a:visited {
+  color: #0088cc;
+/*  text-decoration: none;*/
+}
+a:hover {
+  color: #005580;
+  text-decoration: underline;
+}
+
+.slide {
+/*  background: #000;*/
+/*  color: #fff;*/
+  font-family: 'Advent Pro', sans-serif;
+  line-height:normal;
+}
+
+.content {
+  margin:0px
+}
+
+.code-sample {
+  margin:0;
+}
+
+div.larger {
+ font-size: 200%;
+}
+
+div.right h2 {
+  text-align: right;
+  margin-right: 3em;
+}
+
+h1 {
+  font-family: 'Advent Pro', sans-serif;
+  font-weight: 600;
+  margin:0 0 20px;
+  padding:0;
+  color: #4096EE;
+  line-height:1em;
+}
+
+h2,h3 {
+  font-family: 'Advent Pro', sans-serif;
+  font-weight: normal;
+color: #FF0084;
+  font-size:60px;
+}
+
+h3 {
+  font-family: 'Advent Pro', sans-serif;
+  font-weight: normal;
+  color: #FFF;
+  font-size:45px;
+}
+
+#footer {
+  display: none;
+}
+
+
+pre.sh_sourceCode {
+  margin: 0;
+  padding: 20px;
+  font-size:25px;
+}
+
+.command {
+  color: white;
+  font-size: smaller;
+}
+
+.minibutton {
+  background: #fff;
+  padding:20px;
+  position:absolute;
+  top:5px;
+  right:5px;
+  color:#000;
+  
+}
+
+.repl_results {
+  width: 300px;
+  height: 104px;
+  position: absolute;
+  top: 50px;
+  right: 100px;
+  background: blue;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+}
+
+span.callout {
+  color: #45bd5f !important;
+  font-weight: bold;
+}
+
+.fullscreen {
+  margin: 0;
+}
+
+.fullscreen img {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  width: 1024px;
+  height: 768px;
+}
+.code-sample h2 {
+  position: absolute;
+  top:0;
+  left: 20px;
+}
+.fullscreen h1, .fullscreen h2 {
+  position: absolute;
+  left: 100px;
+  font-size: 5em;
+  background: rgba(0,0,0,0.6);
+  padding: 20px;
+  -webkit-border-radius: 5px;
+  
+  text-shadow: -3px 2px 0px #000; 
+
+}
+.fullscreen.bottom  h1 {
+  bottom: 0px;
+}
+.fullscreen.top  h1 {
+  top: 30px;
+}
+.fullscreen.middle  h1 {
+  top: 300px;
+}
+
+.fullscreen.bottom  h2 {
+  bottom: 150px;
+}
+.fullscreen.bottom.larger  h2 {
+  bottom: 200px;
+}
+.fullscreen.top  h2 {
+  top: 150px;
+}
+
+
+span.caption {
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+  font-size: 26px;
+  background: rgba(0,0,0,0.5);
+  padding: 5px;
+  -webkit-border-radius: 5px;
+  color: #80C18E;
+}
+
+/**
+ * Link to the project's GitHub page:
+ * https://github.com/pickhardt/coffeescript-codemirror-mode
+ */
+/*
+span.coffee-delimiter,
+span.coffee-special {color: #E6B0D1;}
+
+span.coffee-error {background-color: #660000; color: #FFFFFF;}
+
+span.coffee-keyword,
+span.coffee-operator {color: #6ad0d3; font-weight: bold;}
+
+span.coffee-number,
+span.coffee-literal {color: #cbf4a9;}
+
+span.coffee-constant {color: #cbf4a9;}
+
+span.coffee-identifier,
+span.coffee-func {color: #fff;}
+
+span.coffee-thisprop {color: #3090AA;}
+
+span.coffee-comment {color: #838a91;}
+
+span.coffee-string,
+span.coffee-bytes,
+span.coffee-raw,
+span.coffee-unicode {color: #cbf4a9;}
+*/
