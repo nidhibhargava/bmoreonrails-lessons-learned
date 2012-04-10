@@ -1,4 +1,5 @@
 !SLIDE
+![](interwebs.jpg)
 #but how do we make an application for the interwebs?
 
 !SLIDE

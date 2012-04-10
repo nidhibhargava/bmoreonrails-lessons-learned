@@ -1,4 +1,5 @@
 !SLIDE
+![](JIm.jpg)
 #first we needed a brand new environment
 
 !SLIDE
