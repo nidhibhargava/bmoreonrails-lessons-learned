@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE fullscreen middle
 ![](JIm.jpg)
 #first we needed a brand new environment
 

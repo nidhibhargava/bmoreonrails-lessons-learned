@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE fullscreen middle
 #and the application has to do things. lots of things
 
 !SLIDE
